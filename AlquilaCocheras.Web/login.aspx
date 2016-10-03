@@ -13,5 +13,6 @@
     <asp:Label ID="lblResultado" runat="server"></asp:Label>
     <asp:Button ID="btnLogin" runat="server" Text="Ingresar" ClientIDMode="Static" />
 
+    <h1>Hello, world!</h1>
     <a href="/registracion.aspx">Registrarse como nuevo usuario.</a>
 </asp:Content>
