@@ -26,7 +26,7 @@
 
     <%--    LISTADO  (gridview, repeater o datalist)
     Por cada disponibilidad se deberá mostrar la siguiente información:
-    precio, 
+    precios, 
     nombre y 
     apellido del propietario, 
     precio total por las horas que se desean reservar, 
